@@ -1,4 +1,4 @@
-# vue-stock-trader
+# Stock Trader
 
 Control of stock (TEST)
 
